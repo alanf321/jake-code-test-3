@@ -1,0 +1,56 @@
+/* 
+    Created on : 16-Jul-2019, 22:28:32
+    Author     : Alan French
+*/
+.container {
+    width: 80%;
+    margin: auto;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    font-family: helvetica, arial, sans-serif;
+}
+.user-profile {
+    padding: 16px 0;
+}
+.user-photo {
+    width: 80px;
+    height: 80px;
+    background-color: #ccc;
+    margin: 0 16px 16px 0;
+    float: left;
+}
+.user-meta {
+    float: left;
+    padding: 0;
+    margin: 0;
+} 
+h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+h3:first-letter {
+    text-transform: capitalize;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 24px;
+}
+h3 {
+    font-size: 16px;
+    font-weight: lighter;
+    line-height: 20px;
+}
+.user-profile-0 .user-email {
+    color: #3fc53f;
+}
+.user-profile-1 .user-email {
+    color: #e75fe7;
+}
+.user-profile-2 .user-email {
+    color: #ff632f;
+}
+.user-profile .user-email label {
+    color: #000;
+}

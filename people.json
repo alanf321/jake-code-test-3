@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Adam Simpson",
+		"age": 32,
+		"email_address": "adam.simpson@gmail.com",
+		"location": "London",
+		"country": "UK"
+	},
+	{
+		"name": "Daniel Appleton",
+		"age": 22,
+		"email_address": "dan.a@mail.com",
+		"location": "Edinburgh",
+		"country": "Scotland"
+	},
+	{
+		"name": "Peter Watson",
+		"age": 46,
+		"email_address": "peterw@zohomail.com",
+		"location": "Cardiff",
+		"country": "Wales"
+	}
+]
