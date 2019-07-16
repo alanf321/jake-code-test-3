@@ -9,3 +9,8 @@ Notes
 Make sure that you structure the list the same as you created in Step 1. so that the CSS will still work using the shortcode.
 Include your stylesheet links using the standard WordPress style enqueuing function.
 Please include the shortcode functionality as a single file rather than a whole WordPress installation when sending your files back.
+
+Notes:
+The shortcode required is [stepthree]
+The css used in Part 1 is now in an external css file (step-three.css) which should be in the same directory as the step3.php shortcode file.
+The json file is also assumed to reside in the same directory.
