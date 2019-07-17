@@ -18,7 +18,6 @@ function step_three() {
     ?>
     <div class="container">
         <?php
-        $i = 0;
         foreach ($array as $i=>$el) {
             ?>
             <div class="user-profile user-profile-<?php echo $i; ?>">
@@ -31,8 +30,7 @@ function step_three() {
                 </div>
             </div>
             <?php
-//            $i += 1;
-        }
+}
         ?>
     </div>
     <?php
